@@ -1,2 +1,2 @@
-# CYDEO Ticketing Project Initial Template
+# Aya Ticketing Project Initial Template
 
